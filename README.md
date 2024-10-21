@@ -4,7 +4,7 @@
 
 # 213.FreshFoodMallManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">213.生鲜商城管理系统-小程序</h1></p>
